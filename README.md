@@ -3,7 +3,6 @@
 **Location:** Warsaw, Poland (Open to Relocation)  
 **Email:** kkraken37@gmail.com  
 **LinkedIn:** [linkedin.com/in/mirzo-daminov-1ab131201](https://linkedin.com/in/mirzo-daminov-1ab131201)  
-**GitHub:** [github.com/BoburmirzoDaminov](https://github.com/BoburmirzoDaminov)
 ## About Me
 Motivated QA Automation Engineer with 4+ years of experience in manual and automated testing across web and mobile platforms. Skilled in Python, Selenium, PyTest, Cypress, and Postman for UI and API testing. Passionate about building maintainable test frameworks and improving QA processes.
 ## Skills
