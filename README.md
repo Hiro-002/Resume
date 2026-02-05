@@ -28,10 +28,9 @@ Motivated QA Automation Engineer with 4+ years of experience in manual and autom
 
 **Software Testing Engineer – Cognizant Corp**  
 *Warsaw, 05/2024 – 10/2024*  
-- API and UI automation testing using Selenium, Postman  
+- API and UI automation testing using Selenium and Postman  
 - Backend data validation with SQL  
-- Worked in Agile/Scrum teams
-## Projects
+- Worked in Agile/Scrum teams  
 
 **QA Testing Engineer – Keywords Studios**  
 *Katowice, 03/2022 – 11/2023*  
@@ -41,10 +40,9 @@ Motivated QA Automation Engineer with 4+ years of experience in manual and autom
 - Applied both manual and automation testing methodologies within Agile/Scrum workflows  
 - Ensured optimal functionality, performance, and user experience across multiple projects
 
+### Personal Projects
 ### [QA Automation Framework](https://github.com/Hiro-002/qa-automation-framework)  
 Python-based UI and API testing framework using Selenium, PyTest, Page Object Model, and CI/CD integration.
-
-### Personal Projects
 - Cypress UI automation testing examples  
 - Sample SQL backend validations
 ## Certifications
