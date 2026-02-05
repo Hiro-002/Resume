@@ -33,6 +33,14 @@ Motivated QA Automation Engineer with 4+ years of experience in manual and autom
 - Worked in Agile/Scrum teams
 ## Projects
 
+**QA Testing Engineer – Keywords Studios**  
+*Katowice, 03/2022 – 11/2023*  
+- Supported automation testing by executing and maintaining automated test cases  
+- Performed manual testing, regression, and smoke testing across desktop and console platforms  
+- Conducted database validation using SQL queries  
+- Applied both manual and automation testing methodologies within Agile/Scrum workflows  
+- Ensured optimal functionality, performance, and user experience across multiple projects
+
 ### [QA Automation Framework](https://github.com/Hiro-002/qa-automation-framework)  
 Python-based UI and API testing framework using Selenium, PyTest, Page Object Model, and CI/CD integration.
 
