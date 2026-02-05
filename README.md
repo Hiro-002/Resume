@@ -1,4 +1,3 @@
-# Resume
 # Boburmirzo Daminov – QA Automation Engineer
 
 **Location:** Warsaw, Poland (Open to Relocation)  
